@@ -2,8 +2,6 @@
 
 Welcome to **Custom-ML-Algos**! This repository contains a collection of custom machine learning algorithms implemented from scratch in Python. These implementations help you understand the fundamentals of machine learning algorithms by going beyond library-level usage. Dive into the heart of machine learning and explore the code behind Naive Bayes, Decision Trees, and more!
 
-![Custom ML Algorithms](https://user-images.githubusercontent.com/12345678/ml-banner.png)
-
 ---
 
 ## 📖 Table of Contents
@@ -40,7 +38,10 @@ Whether you're a beginner or an experienced ML enthusiast, this repository is pe
 
 ---
 
-#💡 Get In Touch
-LinkedIn: ![Kirtan Matalia] (https://www.linkedin.com/in/kirtan-matalia)
-Email: kirtanmatalia@gmail.com
-We hope you find Custom-ML-Algos helpful! If you have any suggestions or questions, feel free to open an issue or reach out.
+## 💡 Get In Touch
+
+- LinkedIn: [Kirtan Matalia](https://www.linkedin.com/in/kirtan-matalia)
+- Email: kirtanmatalia@gmail.com
+
+We hope you find **Custom-ML-Algos** helpful! If you have any suggestions or questions, feel free to open an issue or reach out.
+
